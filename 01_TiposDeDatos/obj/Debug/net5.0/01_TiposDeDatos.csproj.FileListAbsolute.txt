@@ -1,0 +1,16 @@
+C:\DevOmar\CSharp\01_TiposDeDatos\bin\Debug\net5.0\01_TiposDeDatos.exe
+C:\DevOmar\CSharp\01_TiposDeDatos\bin\Debug\net5.0\01_TiposDeDatos.deps.json
+C:\DevOmar\CSharp\01_TiposDeDatos\bin\Debug\net5.0\01_TiposDeDatos.runtimeconfig.json
+C:\DevOmar\CSharp\01_TiposDeDatos\bin\Debug\net5.0\01_TiposDeDatos.runtimeconfig.dev.json
+C:\DevOmar\CSharp\01_TiposDeDatos\bin\Debug\net5.0\01_TiposDeDatos.dll
+C:\DevOmar\CSharp\01_TiposDeDatos\bin\Debug\net5.0\ref\01_TiposDeDatos.dll
+C:\DevOmar\CSharp\01_TiposDeDatos\bin\Debug\net5.0\01_TiposDeDatos.pdb
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.csproj.AssemblyReference.cache
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.AssemblyInfoInputs.cache
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.AssemblyInfo.cs
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.dll
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\ref\01_TiposDeDatos.dll
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.pdb
+C:\DevOmar\CSharp\01_TiposDeDatos\obj\Debug\net5.0\01_TiposDeDatos.genruntimeconfig.cache
