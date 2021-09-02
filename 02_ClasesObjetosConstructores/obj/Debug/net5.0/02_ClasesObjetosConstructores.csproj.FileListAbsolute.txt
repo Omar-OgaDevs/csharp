@@ -1,0 +1,16 @@
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\bin\Debug\net5.0\02_ClasesObjetosConstructores.exe
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\bin\Debug\net5.0\02_ClasesObjetosConstructores.deps.json
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\bin\Debug\net5.0\02_ClasesObjetosConstructores.runtimeconfig.json
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\bin\Debug\net5.0\02_ClasesObjetosConstructores.runtimeconfig.dev.json
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\bin\Debug\net5.0\02_ClasesObjetosConstructores.dll
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\bin\Debug\net5.0\ref\02_ClasesObjetosConstructores.dll
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\bin\Debug\net5.0\02_ClasesObjetosConstructores.pdb
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.csproj.AssemblyReference.cache
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.AssemblyInfoInputs.cache
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.AssemblyInfo.cs
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.csproj.CoreCompileInputs.cache
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.dll
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\ref\02_ClasesObjetosConstructores.dll
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.pdb
+C:\DevOmar\CSharp\02_ClasesObjetosConstructores\obj\Debug\net5.0\02_ClasesObjetosConstructores.genruntimeconfig.cache
