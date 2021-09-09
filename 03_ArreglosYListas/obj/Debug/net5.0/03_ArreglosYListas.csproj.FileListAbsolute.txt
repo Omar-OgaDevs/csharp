@@ -1,0 +1,16 @@
+C:\DevOmar\CSharp\03_ArreglosYListas\bin\Debug\net5.0\03_ArreglosYListas.exe
+C:\DevOmar\CSharp\03_ArreglosYListas\bin\Debug\net5.0\03_ArreglosYListas.deps.json
+C:\DevOmar\CSharp\03_ArreglosYListas\bin\Debug\net5.0\03_ArreglosYListas.runtimeconfig.json
+C:\DevOmar\CSharp\03_ArreglosYListas\bin\Debug\net5.0\03_ArreglosYListas.runtimeconfig.dev.json
+C:\DevOmar\CSharp\03_ArreglosYListas\bin\Debug\net5.0\03_ArreglosYListas.dll
+C:\DevOmar\CSharp\03_ArreglosYListas\bin\Debug\net5.0\ref\03_ArreglosYListas.dll
+C:\DevOmar\CSharp\03_ArreglosYListas\bin\Debug\net5.0\03_ArreglosYListas.pdb
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.csproj.AssemblyReference.cache
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.AssemblyInfoInputs.cache
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.AssemblyInfo.cs
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.csproj.CoreCompileInputs.cache
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.dll
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\ref\03_ArreglosYListas.dll
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.pdb
+C:\DevOmar\CSharp\03_ArreglosYListas\obj\Debug\net5.0\03_ArreglosYListas.genruntimeconfig.cache
